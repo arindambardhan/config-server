@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/arindambardhan/student-mgmt-config
+          uri: https://github.com/arindambardhan/student-mgmt-property
 server:
   port: 8888
